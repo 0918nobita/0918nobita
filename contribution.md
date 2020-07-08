@@ -2,6 +2,7 @@
 
 ## approvers/RADWIMPS
 
+- [[Languages] Ada #108](https://github.com/approvers/RADWIMPS/pull/108)
 - [[Languages] Io #101](https://github.com/approvers/RADWIMPS/pull/101)
 - [[Languages] Zen #96](https://github.com/approvers/RADWIMPS/pull/96)
 - [[Languages] Racket #65](https://github.com/approvers/RADWIMPS/pull/65)
