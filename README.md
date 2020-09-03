@@ -16,10 +16,6 @@ Blazing fast, safe, sophisticated jobless geek living in Japan.
 - Follow me on Twitter ([@0918nobita](https://twitter.com/0918nobita))
 - Talk to me
 
-## Links
-
-- [Recent Contributions](https://github.com/0918nobita/0918nobita/blob/master/contribution.md)
-
 ## Change Log
 
 ### v1.0 Stable Release
