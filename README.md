@@ -13,7 +13,7 @@ Blazing fast, safe, sophisticated jobless geek living in Japan.
 - :zap: Well-integrated with parents' home
 - :sparkles: Functional programming skills (just a little bit)
 - :sparkles: Object-oriented programming skills (just a little bit)
-- :heart_eyes_cat: Great fan of [Hololive](https://www.hololive.tv/)!!
+- :heart_eyes_cat: Great fan of [Hololive](https://www.hololive.tv/) & [Nijisanji](https://nijisanji.ichikara.co.jp/)!!
 
 ## Links
 
