@@ -5,6 +5,9 @@
 ![0918nobita's github stats](https://github-readme-stats.vercel.app/api?username=0918nobita&show_icons=false&theme=material-palenight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0918nobita&hide=php&layout=compact&theme=material-palenight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=0918nobita&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## リンク
 
 - [pixiv](https://www.pixiv.net/users/16929673)
